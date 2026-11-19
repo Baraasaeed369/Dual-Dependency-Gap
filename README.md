@@ -1,54 +1,3 @@
-## 🖼️ Dashboard Preview
-
-### Overview
-<p align="center">
-  <img src="DUAL%20DEPENDENCY%20GAP.png" alt="Dual Dependency Gap Dashboard" width="90%">
-</p>
-
-### 🌾 Food Commodities
-<p align="center">
-  <img src="FOOD%20COMMEDITIES.png" alt="Food Commodities Dashboard" width="90%">
-</p>
-
-### 🌱 Fertilizers
-<p align="center">
-  <img src="FERTILIZERS.png" alt="Fertilizers Dashboard" width="90%">
-</p>
-
-### 🏗️ Iron & Steel
-<p align="center">
-  <img src="IRON%20TRADE.png" alt="Iron and Steel Trade Dashboard" width="90%">
-</p>
-
-ملاحظات مهمة:
-
-المسافات في أسماء الملفات اتكتبت %20 عشان الصورة تظهر صح.
-GitHub بيفرّق بين الحروف الكبيرة والصغيرة، فلازم الاسم يتطابق تماماً. لاحظي إن اسم الملف عندك مكتوب FOOD COMMEDITIES.png (فيه خطأ إملائي في كلمة COMMODITIES)، وأنا كتبته زي ما هو عشان يشتغل. لو صلحتي اسم الملف نفسه، غيّريه في الكود كمان.
-لو الأفضل تسمّي الملفات من غير مسافات (مثلاً food-commodities.png) عشان الموضوع يبقى أنضف، قوليلي وأعدّلك الكود.
-
-بعد الـ Commit، افتحي الصفحة الرئيسية للريبو وتأكدي إن الصور ظهرت. لو واحدة منها طلعت مكسورة، ابعتيلي لقطة شاشة وأصلحها معاكي.
-
-ضيفها ف الكود ال فوق
-
-ضفت قسم الصور Dashboard Preview في الـ README، بعد قسم Key Results & Insights وقبل Project Deliverables، وباقي المحتوى زي ما هو. الملف جاهز في README.md.
-
-عشان تحدّثي الريبو:
-
-افتحي الملف وانسخي كل محتواه.
-في GitHub اضغطي على القلم ✏️ جنب README، وامسحي المحتوى القديم، والصقي الجديد.
-اضغطي Commit changes.
-
-اسم الملف FOOD COMMEDITIES.png فيه خطأ إملائي، وأنا سيبته زي ما هو في الكود عشان الصورة تظهر. لو غيّرتي اسم الملف نفسه، غيّريه في الكود كمان.
-
-README
-Document
-·MD
-
-فين الكود
-
-الملف ممكن ما يكونش ظاهر عندك، فده الكود كامل، انسخيه كله والصقيه في الـ README:
-
-markdown
 <div align="center">
 
 # 🌍 DUAL DEPENDENCY GAP (DDG)
@@ -72,6 +21,49 @@ Dual Dependency Gap (DDG) is a data analytics and business intelligence project 
 The project examines how concentrated import sources, global price volatility, and supply chain disruptions affect Egypt's strategic sectors, particularly following the Russia–Ukraine war.
 
 It transforms international trade data into actionable insights through interactive Power BI dashboards, statistical analysis, and predictive modeling.
+
+## 🖼️ Dashboard Preview
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="DUAL%20DEPENDENCY%20GAP.png">
+        <img src="DUAL%20DEPENDENCY%20GAP.png" alt="Dual Dependency Gap Overview" width="100%">
+      </a>
+      <br>
+      <b>📌 Overview</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="FOOD%20COMMEDITIES.png">
+        <img src="FOOD%20COMMEDITIES.png" alt="Food Commodities Dashboard" width="100%">
+      </a>
+      <br>
+      <b>🌾 Food Commodities</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="FERTILIZERS.png">
+        <img src="FERTILIZERS.png" alt="Fertilizers Dashboard" width="100%">
+      </a>
+      <br>
+      <b>🌱 Fertilizers</b>
+    </td>
+    <td align="center" width="50%">
+      <a href="IRON%20TRADE.png">
+        <img src="IRON%20TRADE.png" alt="Iron and Steel Trade Dashboard" width="100%">
+      </a>
+      <br>
+      <b>🏗️ Iron & Steel</b>
+    </td>
+  </tr>
+</table>
+
+<sub>🔍 Click any dashboard to view it in full size.</sub>
+
+</div>
 
 ## 🎯 Business Problem
 
@@ -175,28 +167,6 @@ The project dashboard highlights:
 
 *Figures are based on the project dashboard and its selected analysis scope.*
 
-## 🖼️ Dashboard Preview
-
-### Overview
-<p align="center">
-  <img src="DUAL%20DEPENDENCY%20GAP.png" alt="Dual Dependency Gap Dashboard" width="90%">
-</p>
-
-### 🌾 Food Commodities
-<p align="center">
-  <img src="FOOD%20COMMEDITIES.png" alt="Food Commodities Dashboard" width="90%">
-</p>
-
-### 🌱 Fertilizers
-<p align="center">
-  <img src="FERTILIZERS.png" alt="Fertilizers Dashboard" width="90%">
-</p>
-
-### 🏗️ Iron & Steel
-<p align="center">
-  <img src="IRON%20TRADE.png" alt="Iron and Steel Trade Dashboard" width="90%">
-</p>
-
 ## 📊 Project Deliverables
 
 - Interactive Power BI Dashboard.
@@ -237,5 +207,3 @@ It provides a foundation for:
 ### Building a More Resilient Egypt. 🇪🇬
 
 **Dual Dependency Gap | Capstone Project 2026**
-
-</div>
