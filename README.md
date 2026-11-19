@@ -1,3 +1,54 @@
+## 🖼️ Dashboard Preview
+
+### Overview
+<p align="center">
+  <img src="DUAL%20DEPENDENCY%20GAP.png" alt="Dual Dependency Gap Dashboard" width="90%">
+</p>
+
+### 🌾 Food Commodities
+<p align="center">
+  <img src="FOOD%20COMMEDITIES.png" alt="Food Commodities Dashboard" width="90%">
+</p>
+
+### 🌱 Fertilizers
+<p align="center">
+  <img src="FERTILIZERS.png" alt="Fertilizers Dashboard" width="90%">
+</p>
+
+### 🏗️ Iron & Steel
+<p align="center">
+  <img src="IRON%20TRADE.png" alt="Iron and Steel Trade Dashboard" width="90%">
+</p>
+
+ملاحظات مهمة:
+
+المسافات في أسماء الملفات اتكتبت %20 عشان الصورة تظهر صح.
+GitHub بيفرّق بين الحروف الكبيرة والصغيرة، فلازم الاسم يتطابق تماماً. لاحظي إن اسم الملف عندك مكتوب FOOD COMMEDITIES.png (فيه خطأ إملائي في كلمة COMMODITIES)، وأنا كتبته زي ما هو عشان يشتغل. لو صلحتي اسم الملف نفسه، غيّريه في الكود كمان.
+لو الأفضل تسمّي الملفات من غير مسافات (مثلاً food-commodities.png) عشان الموضوع يبقى أنضف، قوليلي وأعدّلك الكود.
+
+بعد الـ Commit، افتحي الصفحة الرئيسية للريبو وتأكدي إن الصور ظهرت. لو واحدة منها طلعت مكسورة، ابعتيلي لقطة شاشة وأصلحها معاكي.
+
+ضيفها ف الكود ال فوق
+
+ضفت قسم الصور Dashboard Preview في الـ README، بعد قسم Key Results & Insights وقبل Project Deliverables، وباقي المحتوى زي ما هو. الملف جاهز في README.md.
+
+عشان تحدّثي الريبو:
+
+افتحي الملف وانسخي كل محتواه.
+في GitHub اضغطي على القلم ✏️ جنب README، وامسحي المحتوى القديم، والصقي الجديد.
+اضغطي Commit changes.
+
+اسم الملف FOOD COMMEDITIES.png فيه خطأ إملائي، وأنا سيبته زي ما هو في الكود عشان الصورة تظهر. لو غيّرتي اسم الملف نفسه، غيّريه في الكود كمان.
+
+README
+Document
+·MD
+
+فين الكود
+
+الملف ممكن ما يكونش ظاهر عندك، فده الكود كامل، انسخيه كله والصقيه في الـ README:
+
+markdown
 <div align="center">
 
 # 🌍 DUAL DEPENDENCY GAP (DDG)
@@ -133,3 +184,58 @@ The project dashboard highlights:
 
 ### 🌾 Food Commodities
 <p align="center">
+  <img src="FOOD%20COMMEDITIES.png" alt="Food Commodities Dashboard" width="90%">
+</p>
+
+### 🌱 Fertilizers
+<p align="center">
+  <img src="FERTILIZERS.png" alt="Fertilizers Dashboard" width="90%">
+</p>
+
+### 🏗️ Iron & Steel
+<p align="center">
+  <img src="IRON%20TRADE.png" alt="Iron and Steel Trade Dashboard" width="90%">
+</p>
+
+## 📊 Project Deliverables
+
+- Interactive Power BI Dashboard.
+- Trade Dependency Analysis.
+- Supplier Concentration & Risk Assessment.
+- Predictive Forecasting Models.
+- Web-Based Trade Analysis Platform.
+- Strategic Insights and Recommendations.
+
+## 👩‍💻 My Contribution
+
+As a member of the project team, my responsibilities included:
+
+- Designing the project poster and visual identity.
+- Developing and maintaining the project website.
+- Integrating project content and visual assets.
+- Improving the presentation and organization of project outputs.
+
+The project was developed collaboratively, with team members contributing to planning, code reviews, testing, and final integration.
+
+## 💡 Business Value
+
+This project demonstrates how data analytics and business intelligence can transform complex international trade data into meaningful insights.
+
+It provides a foundation for:
+
+- More informed import planning.
+- Better supplier diversification strategies.
+- Early identification of trade vulnerabilities.
+- Improved supply chain resilience.
+- Data-driven strategic decision-making.
+
+---
+
+<div align="center">
+
+### Turning Data into Decisions.
+### Building a More Resilient Egypt. 🇪🇬
+
+**Dual Dependency Gap | Capstone Project 2026**
+
+</div>
