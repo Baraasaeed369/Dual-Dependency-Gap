@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🌍 DUAL DEPENDENCY GAP (DDG)
@@ -125,46 +124,12 @@ The project dashboard highlights:
 
 *Figures are based on the project dashboard and its selected analysis scope.*
 
-## 📊 Project Deliverables
+## 🖼️ Dashboard Preview
 
-- Interactive Power BI Dashboard.
-- Trade Dependency Analysis.
-- Supplier Concentration & Risk Assessment.
-- Predictive Forecasting Models.
-- Web-Based Trade Analysis Platform.
-- Strategic Insights and Recommendations.
+### Overview
+<p align="center">
+  <img src="DUAL%20DEPENDENCY%20GAP.png" alt="Dual Dependency Gap Dashboard" width="90%">
+</p>
 
-## 👩‍💻 My Contribution
-
-As a member of the project team, my responsibilities included:
-
-- Designing the project poster and visual identity.
-- Developing and maintaining the project website.
-- Integrating project content and visual assets.
-- Improving the presentation and organization of project outputs.
-
-The project was developed collaboratively, with team members contributing to planning, code reviews, testing, and final integration.
-
-## 💡 Business Value
-
-This project demonstrates how data analytics and business intelligence can transform complex international trade data into meaningful insights.
-
-It provides a foundation for:
-
-- More informed import planning.
-- Better supplier diversification strategies.
-- Early identification of trade vulnerabilities.
-- Improved supply chain resilience.
-- Data-driven strategic decision-making.
-
----
-
-<div align="center">
-
-### Turning Data into Decisions.
-### Building a More Resilient Egypt. 🇪🇬
-
-**Dual Dependency Gap | Capstone Project 2026**
-
-</div>
-
+### 🌾 Food Commodities
+<p align="center">
